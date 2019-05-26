@@ -1,4 +1,4 @@
-remoe a line
+remove a line.
 this is a demo file.
 another line
 third line
