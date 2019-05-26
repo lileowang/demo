@@ -1,8 +1,1 @@
-Remove a line.
-this is a demo file.
-another line
-third line
-
-line 4
-
-test comment
+This is a demo file.
